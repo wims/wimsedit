@@ -1,0 +1,4 @@
+﻿TODO:
+
+* Add font change functionality
+* Add options dialog
